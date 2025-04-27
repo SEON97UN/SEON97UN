@@ -14,10 +14,10 @@
 - 📊 **Data Analysis**: 
   - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
   - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=flat&logo=matplotlib&logoColor=61DAFB)
 - 📚 **Machine Learning**: 
   - ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 - 🛢️ **Databases**: 
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sql&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -37,6 +37,24 @@ This project leverages MBTI characteristics to provide personalized media conten
 - **Recommendation System**: Developed a hybrid recommendation system combining MBTI-based embeddings, content similarity, and Gradient Boosting Machine (GBM) predictions to provide personalized recommendations.
 - **Evaluation**: Evaluated the recommendation system using NDCG@k, achieving a mean NDCG@20 score of 0.6206.
 
+### [Multi-Strategy Stock Trading Analysis](https://github.com/SEON97UN/multi-strategy_stock_trading_analysis)
+This project implements and compares multiple systematic trading strategies using financial time series data. It integrates factor models, momentum/mean reversion, statistical arbitrage, and machine learning/deep learning models within a unified backtesting and evaluation framework.
+
+**Project Highlights**:
+- **Five Quantitative Strategies**:
+  - Factor Model (PCA-based factor extraction)
+  - Momentum & Mean Reversion (technical indicator signals)
+  - Statistical Arbitrage (pair trading with spread reversion)
+  - Machine Learning (Random Forest, XGBoost classification)
+  - Deep Learning (LSTM with Attention Mechanism)
+- **Backtesting and Walk-forward Validation**: Evaluates strategy performance using cumulative return, Sharpe ratio, maximum drawdown, and other key metrics.
+- **Interactive Streamlit Dashboard**: Provides user-friendly strategy testing, visualization, and model diagnostics.
+- **Model Diagnostics**: Includes feature importance, confusion matrix, classification report, and attention-based interpretability for deep learning models.
+- **Portfolio Risk Management**: Supports position sizing, signal thresholding, and parameter optimization.
+
+> This project demonstrates my ability to apply data science techniques to financial market analysis, combining quantitative modeling, machine learning, and deep learning approaches for systematic trading strategy development.
+
+
 ## 🏆 GitHub Stats
 
 ![Seongjun Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEON97UN&show_icons=true&theme=radical)
@@ -44,7 +62,7 @@ This project leverages MBTI characteristics to provide personalized media conten
 
 
 ## 🌐 Connect with me
-- [Email](mailto:tjdwns9703@gmail.com)
+- [Email](mailto:sjchang.stats@gmail.com)
 
 <!---
 SEON97UN/SEON97UN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
