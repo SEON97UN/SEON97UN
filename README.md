@@ -1,4 +1,4 @@
-# Hi there, I'm Seongjun Chang 👋
+# Hi there, I'm Seong Jun Chang 👋
 
 🎓 I graduated with a Bachelor's degree in Applied Statistics from Dankook University.
 📊 I'm passionate about statistics and data science, and I'm aiming to become a data scientist.
