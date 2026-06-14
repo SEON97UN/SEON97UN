@@ -1,5 +1,7 @@
 # Seong Jun Chang
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=888888&width=500&lines=Humanities+%E2%86%92+Statistics+%E2%86%92+Data+Science;MS+in+Data+Science+%40+Texas+A%26M%2C+Fall+2026;Building+things+with+data...)](https://git.io/typing-svg)
+
 Humanities major who got tired of writing essays and found statistics instead.  
 Now I build things with data — and occasionally break them trying to make them smarter.
 
