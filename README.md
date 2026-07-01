@@ -23,6 +23,11 @@ Still figuring out where data science takes me — trying different domains befo
 
 ## Projects
 
+**[ERCOT Load Analysis](https://github.com/SEON97UN/ercot-load-analysis)**  
+Texas grid demand analysis (2019–2024) via EIA API. Context-aware anomaly detection
+by season × hour × day type, compared against Isolation Forest.
+Includes Winter Storm Uri case study. Python · pandas · scikit-learn
+
 **[InvestDNA](https://investdna.pages.dev)** — *live*  
 Bilingual (KR/EN) web app that maps investment behavior to one of 8 archetypes across a 3-axis personality model. React + Vite + Tailwind, deployed on Cloudflare Pages.
 
