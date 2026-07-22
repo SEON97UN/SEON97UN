@@ -21,6 +21,11 @@ Still figuring out where data science takes me — trying different domains befo
 
 ---
 
+## Practice
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sjchang_stats)
+
+---
+
 ## Projects
 
 **[ERCOT Load Analysis](https://github.com/SEON97UN/ercot-load-analysis)**  
