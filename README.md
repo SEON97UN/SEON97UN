@@ -13,16 +13,10 @@ Still figuring out where data science takes me — trying different domains befo
 ---
 
 ## What I actually use
-
 **Core:** R · Python · SQL  
 **Build:** React · Vite · Tailwind · FastAPI  
 **Data:** Pandas · scikit-learn · ggplot2  
 **Infra:** Supabase · Cloudflare Pages · Vercel · GitHub Actions
-
----
-
-## Practice
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sjchang_stats)
 
 ---
 
@@ -47,8 +41,19 @@ Hybrid recommendation system that embeds Korean VOD content and MBTI personality
 
 ---
 
-## Background
+## Certifications
+![R (Basic)](https://img.shields.io/badge/HackerRank-R%20(Basic)-2EC866?style=for-the-badge)
+![SQLD](https://img.shields.io/badge/SQLD-Certified-blue?style=for-the-badge)
+![ADsP](https://img.shields.io/badge/ADsP-Certified-orange?style=for-the-badge)
 
+---
+
+## Practice
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sjchang_stats)
+
+---
+
+## Background
 Started in humanities, ended up in statistics — still not entirely sure how.  
 Somewhere along the way I got interested in macroeconomics and financial markets, which led me to data, which led me here.  
 Statistics stuck because it felt like the most honest way to deal with things you can't fully know.
@@ -56,5 +61,4 @@ Statistics stuck because it felt like the most honest way to deal with things yo
 ---
 
 ## Contact
-
 sjchang.stats@gmail.com · sjchang@tamu.edu
